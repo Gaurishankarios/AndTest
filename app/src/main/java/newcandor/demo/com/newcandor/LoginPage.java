@@ -23,6 +23,7 @@ public class LoginPage extends AppCompatActivity {
 //        startActivity(in);
 
         Intent in = new Intent(this, SoldPropertyDetails.class);
+        // transfer new 
         startActivity(in);
 
 //        Intent ine = new Intent(this, RentalDetailView.class);
